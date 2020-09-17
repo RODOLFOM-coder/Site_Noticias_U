@@ -88,18 +88,12 @@ body.fotos #navegacao a#fotos
 }
 
 
-#tres-colunas #primario {
-    width: 270px;
-    float: left;
-    margin: 0 0 20px 195px;
-    background: blue;
-}
 
 #primario {
     width: 270px;
     float: left;
     margin: 0 0 20px 195px;
-    background: blue;
+    
 }
 
 
@@ -116,7 +110,7 @@ body.fotos #navegacao a#fotos
     width: 270px;
     float: left;
     margin: 0 0 20px 15px;
-    background: green;
+    
 }
 
 
